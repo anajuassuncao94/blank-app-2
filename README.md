@@ -17,7 +17,7 @@ O sistema permite:
 
 ```text
 organizaai_streamlit/
-├── app.py
+├── streamlit_app.py
 ├── requirements.txt
 ├── database/
 ├── repositories/
